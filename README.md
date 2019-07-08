@@ -1,2 +1,4 @@
-# AnimatedBubble
-AnimatedBubble Screen background view. You can customize it for display as per your requirement
+# AnimatedBubble - Background View
+
+# Please check our screenshots for more information:
+![alt text](https://github.com/HemantDixit10/AnimatedBubble/blob/Development/ScreenShot1.png)
